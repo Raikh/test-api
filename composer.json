@@ -1,0 +1,20 @@
+{
+    "name": "onigae/test-api",
+    "description": "PHP Test API",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": ">=7"
+    },
+    "authors": [
+        {
+            "name": "goldshmidt.ae",
+            "email": "onigae@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Onigae\\TestApi\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
