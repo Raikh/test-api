@@ -1,3 +1,5 @@
+composer require onigae/test-api
+
 Example Usage:
 ~~~~
 <?php
